@@ -11,7 +11,7 @@ Forked code source: https://codepen.io/cathydutton/pen/ldazc
 
 To run:
 - pip install -r requirements.txt
-- python hangman.py/
+- python hangman.py
 - run localhost:5000
 - Hint - The answer is in the console
 
