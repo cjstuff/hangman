@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from flask.ext.jasmine import Jasmine
+from flask_jasmine import Jasmine
 
 app = Flask(__name__)
 # app.debug = True
